@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# IDE and editor files
+.vscode/
+
+# Sensitive information and local configs
+.tokens.json
+
+# Local environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# VSCode extension packaging
+*.vsix
+
+*.cpp
